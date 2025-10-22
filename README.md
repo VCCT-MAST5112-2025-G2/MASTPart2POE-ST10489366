@@ -1,8 +1,18 @@
-###Christoffel's Food App 🍽️
+# ST10489366
+
+# Tamunonga Brendon Joni
+
+# Application Name : Christoffel's Food App
+
+
+#Christoffel's Food App 🍽️ 
+
 A React Native mobile application designed for Christoffel, a private chef, to manage his personalized culinary menu. This digital menu solution allows for dynamic menu management and enhances the dining experience for clients.
 
-##📱 App Features
+#📱 App Features
+
 #Part 2 Implementation
+
 -Welcome Screen - Beautiful landing page with background image
 -Menu Management - Add, view, and manage menu items
 -Dish Details - Store dish name, description, course, price, and images
@@ -11,21 +21,24 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 -Total Item Count - Real-time display of menu items
 -Responsive Design - 2-column grid layout for optimal viewing
 
-##Core Functionality
+#Core Functionality
+
 -Add new menu items with full details
 -Display menu in an attractive card-based layout
 -Form validation to ensure data integrity
 -Professional UI/UX design
 -Cross-platform compatibility (iOS & Android)
 
-##🛠️ Technology Stack
+#🛠️ Technology Stack
+
 -Framework: React Native with TypeScript
 -State Management: React Hooks (useState)
 -Styling: React Native StyleSheet
 -Navigation: Modal-based screen management
 -Platform: iOS and Android compatible
 
-##📋 Prerequisites
+#📋 Prerequisites
+
 #Before running this project, ensure you have:
 -Node.js (v14 or higher)
 -npm or yarn
