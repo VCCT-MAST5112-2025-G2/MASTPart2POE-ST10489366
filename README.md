@@ -106,4 +106,10 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 -User Experience: Intuitive navigation and clear call-to-actions
 
 # GitHub repository
+- The github repository link is available at
+  [https://github.com/BrendonJoni/MASTPart2POE.git]
+
+# Video Tutorial
+- the video tutorial of this app in action is available at
+  []
 
