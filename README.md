@@ -21,8 +21,6 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 
 -Course Categorization - Predefined courses: Starter, Main, Dessert
 
--Image Selection - Choose from various dish images when adding items
-
 -Total Item Count - Real-time display of menu items
 
 -Responsive Design - 2-column grid layout for optimal viewing
