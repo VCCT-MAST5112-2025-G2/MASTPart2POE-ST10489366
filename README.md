@@ -71,7 +71,7 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 
 3 Fill in the dish details:
 
--Select a dish image from available options
+-Select a dish from available options
 
 -Enter dish name
 
@@ -84,15 +84,17 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 4 Tap "Save" to add to the menu
 
 # Viewing Menu
+
 -The home screen displays all menu items in a 2-column grid
 
--Each item shows image, name, course, and price
+-Each item shows name, course, and price
 
 -Total item count is displayed at the bottom
 
 -Course filter buttons available (functionality for Part 3)
 
 # 🎨 Design Features
+
 -Color Scheme: Professional red and white theme
 
 -Typography: Clean, readable fonts with proper hierarchy
@@ -102,3 +104,6 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 -Images: High-quality food photography from Pexels
 
 -User Experience: Intuitive navigation and clear call-to-actions
+
+# GitHub repository
+
