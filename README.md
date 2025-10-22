@@ -111,5 +111,5 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 
 # Video Tutorial
 - the video tutorial of this app in action is available at
-  []
+  [https://youtu.be/oirGTvrWtn8]
 
