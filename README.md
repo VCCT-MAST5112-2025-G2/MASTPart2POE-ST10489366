@@ -184,6 +184,31 @@ Efficient Rendering - Optimized list rendering
 Real-time Updates - Instant UI updates
 
 Smooth Navigation - Seamless screen transitions
+
+## References
+
+#Reference List
+- DeepSeek (2024) DeepSeek AI Assistant [Artificial intelligence]. DeepSeek. Available at: https://www.deepseek.com (Accessed: 9 November 2025).
+
+- React Native (2023) React Native: Create native apps for Android and iOS using React [Software]. Available at: https://reactnative.dev (Accessed: 9 November 2025).
+
+- TypeScript (2023) TypeScript: JavaScript with syntax for types [Software]. Available at: https://www.typescriptlang.org (Accessed: 9 November 2025).
+
+- Expo (2023) Expo: The fastest way to build apps [Software]. Available at: https://expo.dev (Accessed: 9 November 2025).
+
+- Pexels (n.d.) Pexels: Free stock photos and videos shared by creators [Online platform]. Available at: https://www.pexels.com (Accessed: 9 November 2025).
+
+
+
+DeepSeek (2024) DeepSeek AI Assistant [Artificial intelligence]. DeepSeek. Available at: https://www.deepseek.com (Accessed: 9 November 2025). Used for brainstorming application architecture, React Native implementation strategies, and debugging assistance.
+
+Acknowledgments
+- DeepSeek AI was used for brainstorming key application features, React Native architecture planning, and technical implementation guidance throughout the development process.
+
+- The AI assistant provided support with TypeScript integration, state management strategies, and debugging complex React Native components.
+
+
+
 # GitHub repository
 - The github repository link is available at
   [https://github.com/BrendonJoni/MASTPart2POE.git]
