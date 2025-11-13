@@ -190,5 +190,5 @@ Smooth Navigation - Seamless screen transitions
 
 # Video Tutorial
 - the video tutorial of this app in action is available at
-  [https://youtu.be/oirGTvrWtn8]
+  [https://youtu.be/TAtn39jNrQE]
 
