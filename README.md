@@ -10,7 +10,7 @@ A React Native mobile application designed for Christoffel, a private chef, to m
 
 ## 📱 App Features
 Final PoE Implementation - Complete Feature Set
-🎯 New Features Added:
+# 🎯 New Features Added:
 
 Separate Add/Edit Screen - Dedicated screen for managing menu items (no longer a modal)
 
@@ -39,7 +39,7 @@ Real-time Statistics - Total items count and average prices per course
 Responsive Design - Clean card-based layout for optimal viewing
 
 ## 🛠️ Technology Stack & Learning Outcomes
-Technical Implementation:
+# Technical Implementation:
 Framework: React Native with TypeScript
 
 State Management: React Hooks (useState)
@@ -50,7 +50,7 @@ Navigation: Screen-based navigation system
 
 Platform: iOS and Android compatible
 
-Learning Requirements Demonstrated:
+# Learning Requirements Demonstrated:
 ✅ For Loops - Used in average price calculations
 
 ✅ While Loops - Implemented in course filtering
@@ -75,7 +75,7 @@ React Native development environment setup
 iOS Simulator (for Mac users) or Android Studio (for Android)
 
 ## 🚀 Installation & Setup
-Ensure you have the project files:
+1.Ensure you have the project files:
 
 App.tsx (main application file)
 
@@ -95,22 +95,23 @@ npx expo start --ios
 
 # For Android
 npx expo start --android
+
 ## 🎯 Complete Usage Guide
-Navigation Flow:
-Welcome Screen → Tap "Get Started"
+# Navigation Flow:
+1.Welcome Screen → Tap "Get Started"
 
-Home Screen → View menu, access all features
+2.Home Screen → View menu, access all features
 
-Add Screen → Create new menu items
+3.Add Screen → Create new menu items
 
-Edit Screen → Modify existing items
+4.Edit Screen → Modify existing items
 
-Filter Screen → Filter by course type
+5.Filter Screen → Filter by course type
 
-Adding Menu Items:
-From Home Screen, tap "ADD NEW DISH"
+# Adding Menu Items:
+1.From Home Screen, tap "ADD NEW DISH"
 
-Fill in all dish details:
+2.Fill in all dish details:
 
 Dish Name
 
@@ -120,16 +121,16 @@ Course Type (Starter, Main, Dessert)
 
 Price
 
-Tap "Save" to add to menu
+3.Tap "Save" to add to menu
 
-Editing Menu Items:
+# Editing Menu Items:
 From Home Screen, tap "Edit" on any menu item
 
 Modify the details as needed
 
 Tap "Update" to save changes or "Delete" to remove
 
-Filtering Menu:
+# Filtering Menu:
 Use quick filter buttons on Home Screen
 
 Or tap "Advanced Filter" for dedicated filter screen
@@ -138,7 +139,7 @@ Select course type to filter view
 
 View filtered items with updated statistics
 
-Viewing Statistics:
+# Viewing Statistics:
 Total Items: Real-time count of displayed items
 
 Average Prices: Calculated per course type
@@ -159,7 +160,7 @@ Consistency: Uniform styling across all screens
 Accessibility: Clear labels and touch targets
 
 ## 📊 Technical Features Demonstrated
-Code Organization:
+# Code Organization:
 Single File Architecture - All functionality in App.tsx
 
 Utility Functions - Separate functions for calculations
@@ -168,7 +169,7 @@ Type Safety - Full TypeScript implementation
 
 State Management - Efficient React hooks usage
 
-Advanced Functionality:
+# Advanced Functionality:
 Form Validation - Input validation with user feedback
 
 Error Handling - Graceful error management
@@ -177,7 +178,7 @@ Data Persistence - State management across navigation
 
 User Confirmation - Delete confirmation dialogs
 
-Performance:
+# Performance:
 Efficient Rendering - Optimized list rendering
 
 Real-time Updates - Instant UI updates
